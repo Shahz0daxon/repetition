@@ -1,0 +1,16 @@
+let a = 100;
+let b = 200;
+console.log(a+b)
+console.log(a<=b)
+console.log(b%a)
+console.log(b=a)
+console.log()
+console.log()
+console.log()
+console.log()
+console.log()
+console.log()
+console.log()
+console.log()
+console.log()
+console.log()

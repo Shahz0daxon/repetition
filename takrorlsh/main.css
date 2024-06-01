@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(25, 25, 60);
+}
+
+.box {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+h1 {
+    color: rgb(154, 155, 141);
+    font-size: 60px;
+    text-align: center;
+    align-items: center;
+}
+
+.cardtoplami {
+    margin: 0;
+    padding: 0;
+}
+
+.card1 {
+    border: 2px solid rgb(142, 123, 173);
+    width: 200px;
+    height: 300px;
+    border-radius: 13px;
+    box-shadow: 0 10px inset 10px;
+    background: linear-gradient(to left, rgba(229, 224, 237, 0.127), rgb(53, 53, 59));
+}
+
+p {
+    font-size: 10px;
+    color: rgb(231, 226, 217);
+    text-align: center;
+    align-items: center;
+}
+
+h2 {
+    font-size: 20px;
+    color: rgb(231, 226, 217);
+    text-align: center;
+    align-items: center;
+}
+
+btn1 {
+    margin-left: 45px;
+    background-color: blue;
+    color: white;
+    border-radius: 13px;
+}
+
+.card2 {
+    border: 2px solid rgb(142, 123, 173);
+    width: 200px;
+    height: 300px;
+    border-radius: 13px;
+    box-shadow: 0 3px 0 10px rgb(91, 91, 138);
+    background: linear-gradient(to left, rgba(229, 224, 237, 0.127), rgb(53, 53, 59));
+}
